@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE7DF344-716A-4497-B118-8E89A21E998E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DDE8E43-58DC-4729-97D3-F7AC195874DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cooking Manager/Ingredient/IngredientCreate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49647BC1-8A2B-4A9E-9114-ECB2310B2B3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cooking Manager/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "APIservice"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B70EF8B-0327-4292-B7AE-3C75CB819F1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cooking Manager/RequestHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getJSON(from:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07B33294-8023-42FB-9A28-FA154D096B41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cooking Manager/Model/Recipe.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(id:name:author:idCategory:nbCouvert:coutAssaisonement:isPercent:stepList:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07B33294-8023-42FB-9A28-FA154D096B41 - e58bdfe517ed7728"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cooking_Manager.Recipe.__allocating_init(id: Swift.Int, name: Swift.String, author: Swift.String, idCategory: Swift.Int, nbCouvert: Swift.Int, coutAssaisonement: Swift.Double, isPercent: Swift.Int, stepList: Swift.Optional&lt;Swift.Array&lt;Cooking_Manager.Step&gt;&gt;) -&gt; Cooking_Manager.Recipe"
+                  moduleName = "Cooking Manager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marie-christine/Desktop/Cooking%20Manager/Cooking%20Manager/Model/Recipe.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "07B33294-8023-42FB-9A28-FA154D096B41 - 9c2fda6ba95e0f5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cooking_Manager.Recipe.init(id: Swift.Int, name: Swift.String, author: Swift.String, idCategory: Swift.Int, nbCouvert: Swift.Int, coutAssaisonement: Swift.Double, isPercent: Swift.Int, stepList: Swift.Optional&lt;Swift.Array&lt;Cooking_Manager.Step&gt;&gt;) -&gt; Cooking_Manager.Recipe"
+                  moduleName = "Cooking Manager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marie-christine/Desktop/Cooking%20Manager/Cooking%20Manager/Model/Recipe.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B0E32F2-C701-4C96-B1C2-45C833B2C171"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cooking Manager/DTO/StepDTO.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "infoRecipe()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
